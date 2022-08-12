@@ -27,6 +27,10 @@ for i in Numbers{
 for i in Numbers {
     if i%2 == 0 {
         print("this is even number", i)
+        
 }
+     else {
+        print("this is odd number", i)
+    }
 }
 
